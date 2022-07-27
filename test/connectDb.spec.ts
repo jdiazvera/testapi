@@ -1,4 +1,3 @@
-import  request  from "supertest";
 import { connectDB } from "../src/util/connectDB";
 
 describe("Connection to Database", () => {
