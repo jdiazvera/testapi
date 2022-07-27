@@ -1,6 +1,6 @@
 import { createLogger, transports, format } from "winston" ;
 
-export const logger=createLogger({
+export const logger = createLogger({
     transports: [new transports.File({
         dirname: "logs",
         filename: "winstonLog.log",
