@@ -16,4 +16,4 @@ export const logger = createLogger({
     defaultMeta: {
         service: "Behavior Logs",
     }
-});
+})
