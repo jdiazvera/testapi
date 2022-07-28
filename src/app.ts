@@ -6,7 +6,7 @@ import path from "path";
 // Create Express server
 const app = express();
 // Express configuration
-app.set("port", 3000);
+app.set("port", process.env.PORT || 3000);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
