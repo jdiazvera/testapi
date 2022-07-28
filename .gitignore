@@ -9,4 +9,4 @@ dist
 
 logs
 
-test/connectDb.spec.ts
+#test/connectDb.spec.ts
