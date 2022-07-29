@@ -10,7 +10,6 @@ dist
 # Ignore logs files
 logs
 
-# Ignore test
-test/connectDb.spec.ts
+
 
 
