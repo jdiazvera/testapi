@@ -7,6 +7,10 @@ node_modules
 # Ignore built ts files
 dist
 
+# Ignore logs files
 logs
 
+# Ignore test
 test/connectDb.spec.ts
+
+
