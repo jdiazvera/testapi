@@ -1,7 +1,8 @@
 import express from "express";
-import { connectDB } from "./util/connectDB";
-import { loadApiEndpoints } from "./controllers/api";
 import path from "path";
+
+import { loadApiEndpoints } from "./controllers/api";
+import { connectMongo } from "./util/connectDB";
 
 // Create Express server
 const app = express();
@@ -14,7 +15,7 @@ app.use(
   express.static(path.join(__dirname, "../public"), { maxAge: 31557600000 })
 );
 
-connectDB();
+connectMongo();
 
 loadApiEndpoints(app);
 
