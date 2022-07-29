@@ -10,4 +10,5 @@ module.exports = {
   },
   testMatch: ["**/test/**/*.spec.(ts|js)"],
   testEnvironment: "node",
+  testTimeout: 60000,
 };
