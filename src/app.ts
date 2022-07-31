@@ -14,4 +14,3 @@ export const createApp = (): Application => {
   loadApiEndpoints(app);
   return app;
 };
-
