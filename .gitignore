@@ -10,7 +10,8 @@ dist
 # Ignore logs files
 logs
 
-#ignore test
+#ignore ide
+/.idea
 
 
 
