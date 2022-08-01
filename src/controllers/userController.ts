@@ -10,25 +10,25 @@ class UserController {
 
   async insertUser(req: Request, res: Response) {
     const insert = req.body;
-    if (insert != {}) {
+    console.log(insert);
+    if (insert === {}) {
+      logger.warn("Problem to insert user: User Emtyed");
+      return res
+        .status(400)
+        .json({ message: "Problem to insert user: User Emtyed" });
+    } else {
       const resultInsert = await this.userService.insertUser(insert);
       logger.info(
         "UserController insertUser called with login: " + insert.login
       );
-      return res.json({ message: resultInsert });
       if (resultInsert != null) {
-        return res.status(201).json(resultInsert);
+        return res.status(201).json({ message: resultInsert });
       } else {
         logger.warn("Problem to insert user: " + insert.login);
         return res
           .status(404)
           .json({ message: "User with login: " + insert.login + " exists" });
       }
-    } else {
-      logger.warn("Problem to insert user: User Emtyed");
-      return res
-        .status(400)
-        .json({ message: "Problem to insert user: User Emtyed" });
     }
   }
 }

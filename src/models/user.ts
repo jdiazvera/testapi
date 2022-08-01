@@ -1,16 +1,16 @@
 import { getModelForClass, prop } from "@typegoose/typegoose";
 
 export class User {
-  @prop()
+  @prop({ required: true })
   login: string;
 
-  @prop()
+  @prop({ required: true })
   name: string;
 
-  @prop()
+  @prop({ required: true })
   email: string;
 
-  @prop()
+  @prop({ required: true })
   password: string;
 
   @prop()
@@ -31,7 +31,7 @@ export class User {
   @prop()
   phone: number;
 
-  @prop()
+  @prop({ required: true })
   bank_account: string;
 }
 
