@@ -5,3 +5,13 @@
 [2022-07-27T20:15:32.953Z] Behavior Logs info: database is connected
 [2022-07-27T20:20:32.711Z] Behavior Logs info: database is connected
 [2022-07-27T20:20:32.794Z] Behavior Logs info: database is connected
+[2022-08-01T18:03:02.261Z] Behavior Logs info: UserService, insertUser called for insert user: undefined
+[2022-08-01T18:03:02.265Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T18:03:02.365Z] Behavior Logs info: User insert: undefined
+[2022-08-01T18:03:02.365Z] Behavior Logs info: UserController insertUser called with login: undefined
+[2022-08-01T18:45:20.116Z] Behavior Logs info: UserService, insertUser called for insert user: acorrales
+[2022-08-01T18:45:20.119Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T18:46:14.598Z] Behavior Logs info: UserService, insertUser called for insert user: acorrales
+[2022-08-01T18:46:14.600Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T18:46:14.727Z] Behavior Logs info: User insert: acorrales
+[2022-08-01T18:46:14.727Z] Behavior Logs info: UserController insertUser called with login: acorrales

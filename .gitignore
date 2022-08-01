@@ -13,6 +13,8 @@ logs
 #ignore ide
 /.idea
 
+exampleModels
+
 
 
 
