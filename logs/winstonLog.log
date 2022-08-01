@@ -69,3 +69,13 @@
 [2022-08-01T19:14:17.727Z] Behavior Logs info: RouteUser post/user/insert User
 [2022-08-01T19:14:17.826Z] Behavior Logs info: User insert: acorrales
 [2022-08-01T19:14:17.827Z] Behavior Logs info: UserController insertUser called with login: acorrales
+[2022-08-01T21:13:53.082Z] Behavior Logs info: UserService, insertUser called for insert user: acorrales
+[2022-08-01T21:13:53.084Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T21:13:53.197Z] Behavior Logs info: User insert: acorrales
+[2022-08-01T21:13:53.198Z] Behavior Logs info: UserController insertUser called with login: acorrales
+[2022-08-01T21:40:43.346Z] Behavior Logs info: UserService, insertUser called for insert user: undefined
+[2022-08-01T21:40:43.348Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T21:49:33.489Z] Behavior Logs info: UserService, insertUser called for insert user: acorrales
+[2022-08-01T21:49:33.490Z] Behavior Logs info: RouteUser post/user/insert User
+[2022-08-01T21:49:33.836Z] Behavior Logs info: User insert: acorrales
+[2022-08-01T21:49:33.836Z] Behavior Logs info: UserController insertUser called with login: acorrales

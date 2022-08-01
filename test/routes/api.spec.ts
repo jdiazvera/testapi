@@ -1,8 +1,8 @@
 import mongoose from "mongoose";
 import request from "supertest";
 
-import { createApp } from "../src/app";
-import { config } from "../src/util/config";
+import { createApp } from "../../src/app";
+import { config } from "../../src/util/config";
 
 describe("GET /api", () => {
   beforeAll((done) => {
