@@ -8,13 +8,13 @@ class UserRepository {
   async insert(documents: User) {
     const login = documents.login;
     const previous = await userModel.find({ login: login });
-    if (previous != null) {
+    if (previous.length == 0) {
       const insertUser = await userModel.insertMany(documents);
       logger.info("User insert: " + login);
       return insertUser;
     } else {
       logger.warn("User insert failed: " + login);
-      return null;
+      return { message: "Login : " + login + " exists" };
     }
   }
 }
