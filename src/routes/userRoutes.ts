@@ -12,6 +12,5 @@ export const userRoutes = (app: Application): void => {
   app.post("/user", (req: Request, res: Response) => {
     userController.insertUser(req, res);
     logger.info("RouteUser post/user/insert User");
-    console.log("Post user successfully");
   });
 };

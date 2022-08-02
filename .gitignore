@@ -8,7 +8,7 @@ node_modules
 dist
 
 # Ignore logs files
-logs
+logs/
 
 #ignore ide
 /.idea
