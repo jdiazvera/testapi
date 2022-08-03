@@ -1,4 +1,3 @@
-import { info } from "console";
 import { Request, Response } from "express";
 import { Service } from "typedi";
 
@@ -12,7 +11,6 @@ class UserController {
   async insertUser(req: Request, res: Response) {
     const insert = req.body;
     if (insert.login) {
-      console.log(insert);
       if (insert === {}) {
         logger.warn("Problem to insert user: User Emtyed");
         return res
