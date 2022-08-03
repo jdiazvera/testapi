@@ -10,8 +10,8 @@ describe("POST /user", () => {
   });
   afterAll((done) => {
     mongoose.connection.db.dropDatabase(() => {
-      mongoose.connection.close(() => done())
-    })
+      mongoose.connection.close(() => done());
+    });
   });
 
   const app = createApp();
