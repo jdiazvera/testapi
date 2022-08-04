@@ -1,4 +1,5 @@
 import express, { Application } from "express";
+import 'reflect-metadata';
 import path from "path";
 
 import { loadApiEndpoints } from "./controllers/api";
