@@ -5,7 +5,7 @@ dotenv.config();
 const MONGO_URL =
   "mongodb+srv://mongo:123...%40bcD.@cluster0.nsrarlo.mongodb.net/myDele";
 const TEST_DB =
-  "mongodb+srv://mongo:123...%40bcD.@cluster0.nsrarlo.mongodb.net/myDele";
+  "mongodb+srv://mongo:123...%40bcD.@cluster0.nsrarlo.mongodb.net/myTest";
 
 const SERVER_PORT = process.env.SERVER_PORT
   ? Number(process.env.SERVER_PORT)
