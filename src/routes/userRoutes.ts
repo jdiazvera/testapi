@@ -1,7 +1,7 @@
 import express, { Application, Request, Response } from "express";
 import { Container } from "typedi";
 
-import UserController from "../controllers/userController";
+import UserController from "../controllers/user/userController";
 import { logger } from "../util/logger";
 
 export const userRoutes = (app: Application): void => {
