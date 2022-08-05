@@ -5,3 +5,84 @@
 [2022-07-27T20:15:32.953Z] Behavior Logs info: database is connected
 [2022-07-27T20:20:32.711Z] Behavior Logs info: database is connected
 [2022-07-27T20:20:32.794Z] Behavior Logs info: database is connected
+[2022-08-02T20:48:21.467Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-02T20:48:21.468Z] Behavior Logs info: Routes POST categoryController
+[2022-08-02T20:48:21.600Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:38:01.511Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:38:01.544Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:38:01.947Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:38:01.963Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:38:01.964Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:38:02.028Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:38:02.033Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:38:02.033Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:40:07.253Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:40:07.285Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:40:07.656Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:40:07.675Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:40:07.675Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:40:07.723Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:40:07.729Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:40:07.730Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:48:57.259Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:48:57.294Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:48:57.603Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:48:57.617Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:48:57.618Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:48:57.668Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:48:57.676Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:48:57.677Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:50:18.605Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:50:18.637Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:50:19.000Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:50:19.018Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:50:19.019Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:50:19.066Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:50:19.074Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:50:19.075Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:54:26.098Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:54:26.131Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:54:26.497Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:54:26.512Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:54:26.513Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:54:26.578Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:54:26.584Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:54:26.585Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:58:01.841Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:58:01.877Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:58:02.327Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:58:02.343Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:58:02.344Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:58:02.412Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:58:02.417Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:58:02.417Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:59:36.996Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:59:36.997Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:59:37.330Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:59:37.347Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:59:37.347Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T18:59:37.394Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T18:59:37.398Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T18:59:37.398Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:01:45.136Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:01:45.137Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:01:45.209Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T19:02:11.637Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:02:11.638Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:02:11.832Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T19:02:29.069Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:02:29.069Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:04:19.322Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:04:19.323Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:05:41.752Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:05:41.753Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:05:50.493Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T19:05:50.508Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:05:50.508Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:05:50.556Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T19:07:14.561Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:07:14.562Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:07:14.964Z] Behavior Logs info: Sending Data from the Controller
+[2022-08-03T19:07:14.979Z] Behavior Logs info: Checking categoriesService.insertCategory
+[2022-08-03T19:07:14.979Z] Behavior Logs info: Routes POST categoryController
+[2022-08-03T19:07:15.032Z] Behavior Logs info: Sending Data from the Controller
